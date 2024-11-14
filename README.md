@@ -65,11 +65,15 @@ GutierrezGayossoJoseAlejandro1185-3W
 
 ![image](https://github.com/user-attachments/assets/244047ac-14ff-4e90-a40d-407f0c55bbb4)
 
+----------------------------
 
+9-Elementos figure y figcaption
 
+![image](https://github.com/user-attachments/assets/1d19c8bc-ed71-4157-bc34-6f7ef6636d50)
 
+![image](https://github.com/user-attachments/assets/1d619810-d5ae-487b-869c-d6ca63f753f9)
 
-
+-----------------------------------
 
 
 
